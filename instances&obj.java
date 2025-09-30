@@ -22,3 +22,6 @@ System.out.println(s1.college);
 System.out.println(s2.college);     // only one ocpy of college exists, shared by both
 
 // both s1 and s2 are independent
+
+// to change:
+Student.college = "XYZ";
